@@ -1,0 +1,7 @@
+version: "3"
+services:
+  midway:
+    build: .
+    image: gcslaoli/docker-midway
+    ports:
+      - 7001:7001 # 宿主机端口:容器端口
