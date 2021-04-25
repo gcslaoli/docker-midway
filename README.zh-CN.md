@@ -1,5 +1,15 @@
 # my-midway-project
 
+## 教程记录
+启动开发
+```bash
+npm run dev
+```
+生产部署
+```bash
+npm run build
+npm run start
+```
 ## 快速入门
 
 <!-- 在此次添加使用文档 -->
